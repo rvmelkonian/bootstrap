@@ -1,5 +1,5 @@
 {
-  "name": "@rvmelkonian/bootstrap_hack",
+  "name": "@rvmelkonian/bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "5.1.3",
   "config": {
@@ -86,7 +86,7 @@
   "module": "dist/js/bootstrap.esm.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twbs/bootstrap.git"
+    "url": "git+https://github.com/rvmelkonian/bootstrap.git"
   },
   "bugs": {
     "url": "https://github.com/twbs/bootstrap/issues"
